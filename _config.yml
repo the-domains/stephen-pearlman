@@ -1,16 +1,16 @@
-typography_spectrum: 0.8256418753881007
+typography_spectrum: 0.07321979384869337
 color:
-  brandStrength: 0.4981847449671477
-  lightness: 0.4883508204948157
-  saturation: 0.9484625479672104
-  rhythmicContrast: 0.7926138322800398
+  brandStrength: 0.2261644231621176
+  lightness: 0.5138944189529866
+  saturation: 0.41774122626520693
+  rhythmicContrast: 0.9912069363053888
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-layout_spectrum: 0.9027027811389416
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+layout_spectrum: 0.7987283091060817
 name: stephen pearlman
 title: Stephen Pearlman
 description: journal
