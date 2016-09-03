@@ -1,20 +1,20 @@
-typography_spectrum: 0.48536127153784037
+layout_spectrum: 0.4124882381875068
+typography_spectrum: 0.5120278233662248
 color:
-  brandStrength: 0.14831952122040093
-  lightness: 0.26073190942406654
-  saturation: 0.9473331442568451
-  rhythmicContrast: 0.3714121328666806
+  brandStrength: 0.9333259968552738
+  lightness: 0.8840899998322129
+  saturation: 0.20076506515033543
+  rhythmicContrast: 0.9440055454615504
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.9437922351062298
+    - '#000C29'
+    - '#984443'
+    - '#003863'
+    - '#566C8D'
+    - '#EF929E'
 name: stephen pearlman
 navigation:
   - name: Music
     id: c5df43b9-8317-4a8b-bc46-87ec51f91499
     type: content
 title: Stephen Pearlman
-description: multimedia
+description: journal
